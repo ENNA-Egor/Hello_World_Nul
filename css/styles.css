@@ -3,11 +3,13 @@ h1 {
    font-size: 30px;
 }
 
-#btn_test {
-   background-color: #2853ed;
-   color: rgb(226, 203, 178);
-}
+
 
 body {
    background-color: rgb(147, 202, 211);
+}
+
+.btn{
+   background-color: #2853ed;
+   color: rgb(226, 203, 178); 
 }
